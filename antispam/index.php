@@ -23,6 +23,8 @@
         <label for="message">Message :</label>
         <textarea id="message" name="message"></textarea>
     </p>
+
+    <input type="hidden" name="raison">
     <button>Envoyer</button>
 </form>
     
