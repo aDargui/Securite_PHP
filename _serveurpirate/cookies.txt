@@ -1,0 +1,2 @@
+demoXSS=données personnelles de l'utilisateur
+PHPSESSID=3dn08nqno3b1cbpqhg1k3kdhbf
